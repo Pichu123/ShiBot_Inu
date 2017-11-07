@@ -115,7 +115,7 @@ async def kick(ctx, member:discord.Member=None):
 
 
 #ShiBot_Inu
-#client.run('MzIwMjU0NjIzNjU2OTY4MjA0.DESYDA.KGcnPSQ4yb_rsQyndPVjRigIbIo')
+#client.run('bot token')
 
 # #ShiBot_Inu_2
-client.run('MzMwOTQ2MTQ0MjY1OTYxNDc0.DD9mgg.1PxQ11iCEiCdN0N7i1hpdcUA1D4')
+client.run('bot token')
